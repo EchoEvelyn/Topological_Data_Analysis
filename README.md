@@ -42,6 +42,8 @@ DSC214/
 ├── Project.ipynb              # Main Jupyter notebook for all analysis
 ├── TDA_statistics.txt         # Summary statistics (loops, persistences, etc.)
 ├── Wasserstein_distances.txt  # Wasserstein distance results (topological similarity)
+│
+└── ... (other files or folders as needed)
 ```
 
 ## Install Dependencies
