@@ -40,6 +40,7 @@ DSC214/
 │   └── ... (plots, diagrams, etc.)
 │
 ├── Project.ipynb              # Main Jupyter notebook for all analysis
+├── requirements.txt           # Required Dependencis
 ├── TDA_statistics.txt         # Summary statistics (loops, persistences, etc.)
 ├── Wasserstein_distances.txt  # Wasserstein distance results (topological similarity)
 │

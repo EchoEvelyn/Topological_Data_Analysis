@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+tqdm
+biopython
+giotto-tda
+gtda
+umap-learn
+gensim
+nltk
