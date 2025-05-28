@@ -30,6 +30,7 @@ Traditional geometric and statistical tools capture local motifs or global foldi
 
 ## File Structure
 
+```
 DSC214/
 ├── 1ATP.pdb                   # Protein structure: Protein Kinase A
 ├── 1CRK.pdb                   # Protein structure: Creatine Kinase
@@ -41,7 +42,7 @@ DSC214/
 ├── Project.ipynb              # Main Jupyter notebook for all analysis
 ├── TDA_statistics.txt         # Summary statistics (loops, persistences, etc.)
 ├── Wasserstein_distances.txt  # Wasserstein distance results (topological similarity)
-
+```
 
 ## Install Dependencies
 
