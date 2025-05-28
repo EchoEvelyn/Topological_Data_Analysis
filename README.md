@@ -47,7 +47,30 @@ DSC214/
 └── ... (other files or folders as needed)
 ```
 
-## Install Dependencies
+## Quick Start
+
+1. Clone the repository and install dependencies:
+    ```bash
+    git clone https://github.com/yourusername/Topological_Data_Analysis.git
+    cd Topological_Data_Analysis/DSC214
+    pip install -r requirements.txt
+    ```
+
+2. Run the main notebook:
+    - Open `Project.ipynb` in Jupyter Notebook or VS Code.
+    - Run all cells to reproduce the TDA workflow.
+    - All figures will be saved to the `images/` directory.
+
+## Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
+
+## References
+
+- Protein structure data were obtained from the RCSB Protein Data Bank (PDB):
+  https://www.rcsb.org/
+
+  Berman, H. M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T. N., Weissig, H., ... & Bourne, P. E. (2000). The Protein Data Bank. *Nucleic Acids Research*, 28(1), 235–242. [https://doi.org/10.1093/nar/28.1.235](https://doi.org/10.1093/nar/28.1.235)
+
