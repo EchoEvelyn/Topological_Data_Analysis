@@ -30,20 +30,17 @@ Traditional geometric and statistical tools capture local motifs or global foldi
 
 ## File Structure
 
-```bash
-DSC214/                        # Main project folder
-│
+DSC214/
 ├── 1ATP.pdb                   # Protein structure: Protein Kinase A
 ├── 1CRK.pdb                   # Protein structure: Creatine Kinase
 ├── 4hhb.pdb                   # Protein structure: Hemoglobin
 │
 ├── images/                    # All generated images/figures for report
-│   ├── ... (plots, diagrams, etc.)
+│   └── ... (plots, diagrams, etc.)
 │
 ├── Project.ipynb              # Main Jupyter notebook for all analysis
 ├── TDA_statistics.txt         # Summary statistics (loops, persistences, etc.)
 ├── Wasserstein_distances.txt  # Wasserstein distance results (topological similarity)
-
 
 
 ## Install Dependencies
