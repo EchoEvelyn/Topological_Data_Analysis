@@ -1,0 +1,9 @@
+4HHB H1 loop count: 439
+4HHB Top 3 H1 persistences: [4.77871704 4.20903683 3.81532955]
+
+1CRK H1 loop count: 381
+1CRK Top 3 H1 persistences: [12.57933044  5.81330252  5.64109612]
+
+1ATP H1 loop count: 440
+1ATP Top 3 H1 persistences: [3.44974017 3.12941051 2.99299788]
+

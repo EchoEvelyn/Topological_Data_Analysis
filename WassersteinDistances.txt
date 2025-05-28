@@ -1,0 +1,4 @@
+Wasserstein distance between H1 persistence diagrams:
+4HHB vs 1CRK: 412.350
+4HHB vs 1ATP: 235.918
+1CRK vs 1ATP: 512.477
