@@ -1,11 +1,5 @@
 # Topological Data Analysis of Protein Structures via Persistent Homology
 
-This repository contains code, figures, and documentation for the project:
-**Topological Data Analysis of Protein Structures via Persistent Homology**  
-by Jingman Wang (UCSD, DSC214).
-
----
-
 ## Overview
 
 This project systematically applies **persistent homology**, a tool from topological data analysis (TDA), to compare and characterize the three-dimensional structures of three representative proteins:
@@ -15,13 +9,9 @@ This project systematically applies **persistent homology**, a tool from topolog
 
 By extracting atomic point clouds from PDB structures and analyzing their topological features across multiple scales, the project uncovers both shared and distinct structural fingerprints that are robust to noise and geometric perturbations.
 
----
-
 ## Background & Motivation
 
 Traditional geometric and statistical tools capture local motifs or global folding patterns of proteins, but often miss higher-order connectivity and multiscale cavities/loops. Persistent homology enables the quantification of such features (connected components, loops, voids) and provides **topological fingerprints** for robust protein comparison.
-
----
 
 ## Key Features
 
@@ -38,8 +28,6 @@ Traditional geometric and statistical tools capture local motifs or global foldi
     - Persistence entropy
     - Wasserstein distance for topological similarity assessment
 
----
-
 ## File Structure
 
 ```bash
@@ -55,6 +43,7 @@ DSC214/                        # Main project folder
 ├── Project.ipynb              # Main Jupyter notebook for all analysis
 ├── TDA_statistics.txt         # Summary statistics (loops, persistences, etc.)
 ├── Wasserstein_distances.txt  # Wasserstein distance results (topological similarity)
+
 
 
 ## Install Dependencies
